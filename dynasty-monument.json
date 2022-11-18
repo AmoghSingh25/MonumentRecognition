@@ -1,0 +1,64 @@
+{
+  "Dravidian": {
+    "Chalukya": [
+      "Virupaksha Temple",
+      "Sangameswarar Temple",
+      "Gowda Temple",
+      "Lad Khan Temple",
+      "Durga Temple",
+      "Parvati temple",
+      "Mahakuteshwara Temple",
+      "Sun Temple"
+    ],
+    "Pallava": ["Shore temple at Mahabalipuram", "Kanchi Kailasanathar Temple"]
+  },
+  "Mughal": {
+    "Akbar": ["Agra Fort", "Fatehpur Sikri", "Jama Masjid", "Red Fort"],
+    "Jahangir": ["Begum Shahi Mosque", "Shalimar Gardens"],
+    "Shah Jahan": ["Taj Mahal", "Red Fort", "Shah Jahan Mosque"]
+  },
+  "Indo-Saracenic": [
+    "Gateway of India",
+    "Taj Mahal Hotel, Mumbai",
+    "Southern Railway Headquarters",
+    "Mysore Palace",
+    "National Art Gallery",
+    "Victoria Public Hall",
+    "Khalsa College",
+    "Lucknow Charbagh Railway Station",
+    "Howrah Railway Station"
+  ],
+  "Kalinga": [
+    "Sun Temple",
+    "Mukteshwara Temple",
+    "Lingaraj Temple",
+    "Rajarani Temple",
+    "Varahi Deula",
+    "Durga Temple",
+    "Mukteshvara temple"
+  ],
+  "Cave": [
+    "Ellora Cave",
+    "Mahabalipuram",
+    "Bhimbetka Rock Shelters",
+    "Barabar Caves",
+    "Badami Caves",
+    "Karla Caves",
+    "Udayagiri and Khandagiri Caves",
+    "Ajanta Caves",
+    "Masroor Temple Complex",
+    "Kanheri Caves"
+  ],
+  "Colonial": [
+    "VIctoria Memorial",
+    "St. Pauls Cathedral",
+    "Writers Building",
+    "Mumbai High Court",
+    "Gateway of India",
+    "India Gate",
+    "Parliament of India",
+    "Rashtrapati Bhavan",
+    "Fort St. George",
+    "National Library of India"
+  ]
+}
